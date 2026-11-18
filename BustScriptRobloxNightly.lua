@@ -1,4 +1,4 @@
---Bust Physics v2.5.6 Nightly
+--Bust Physics v2.7.0 Nightly
 --Written: Daniel6739753
 --Use loadstring to load this script, for example "loadstring(game:HttpGet("https://raw.githubusercontent.com/Daniel6739753/BustPhysicsRoblox/refs/heads/main/BustScriptRobloxNightly.lua", true))()"
 --!! ATTENTION !! Nightly versions can have lots of bugs, so better use default instead
